@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/myicons">
+        <file>1489688093_save.png</file>
+        <file>1489688063_BRoom_Stick_2.png</file>
+    </qresource>
+</RCC>
